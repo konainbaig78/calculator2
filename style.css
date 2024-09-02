@@ -1,0 +1,30 @@
+#cal {
+  margin-top: 4rem;
+  background: plum;
+  margin: 3rem;
+  width: 20rem;
+}
+#display {
+  height: 3rem;
+  width: 16rem;
+  margin-top: 12px;
+}
+.w-16 {
+  width: 16rem;
+}
+.btn {
+  width: 3rem;
+  font-size: 20px;
+  border: 1px solid white;
+  color: rgb(0, 23, 153);
+  margin-top: 12px;
+  margin-bottom: 5px;
+}
+.btn:hover {
+  width: 3rem;
+  font-size: 20px;
+  border: 1px solid white;
+  color: rgb(0, 23, 153);
+  margin-top: 12px;
+  margin-bottom: 5px;
+}
